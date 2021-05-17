@@ -60,6 +60,7 @@ Awesome list of status pages open source software, online services and public st
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
+* [TestUptime](https://www.testuptime.com/) - Free Website/Server Uptime Monitoring & Status Pages
 
 ## Public status pages
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
